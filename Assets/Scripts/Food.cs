@@ -13,12 +13,6 @@ public class Food : MonoBehaviour
         RandomPos();    //randomize posiion of the food
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     //Function to randomize the position of the food
     private void RandomPos()
     {
